@@ -1,0 +1,133 @@
+{
+  "academic_year": "2024/25",
+  "academic_records": {
+    "term_gpa": 71.667,
+    "cumulative_gpa": 71.667,
+    "overall_year_mark": 71.667,
+    "academic_standing": "Activate - progress to next level"
+  },
+  "classes": [
+    {
+      "code": "EART11100",
+      "code_as_printed": "EART 11100",
+      "units": 40.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 69.0,
+      "grade_points": 2760.0
+    },
+    {
+      "code": "EART11200",
+      "code_as_printed": "EART 11200",
+      "units": 40.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 79.0,
+      "grade_points": 3160.0
+    },
+    {
+      "code": "EART11300",
+      "code_as_printed": "EART 11300",
+      "units": 40.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 67.0,
+      "grade_points": 2680.0
+    }
+  ],
+  "assignments": [
+    {
+      "code": "EART11100",
+      "code_as_printed": "EART 11100",
+      "course_title": "Understanding the Earth",
+      "items": [
+        {
+          "assignment": "S1 How to Build a Planet",
+          "category": "Exam",
+          "grade": 66.69
+        },
+        {
+          "assignment": "S1 How to Grow a Planet",
+          "category": "Exam",
+          "grade": 71.5
+        },
+        {
+          "assignment": "S2 A Dynamic Planet",
+          "category": "Exam",
+          "grade": 82.0
+        },
+        {
+          "assignment": "S2 A Sustainable Planet",
+          "category": "Exam",
+          "grade": 57.5
+        }
+      ]
+    },
+    {
+      "code": "EART11200",
+      "code_as_printed": "EART 11200",
+      "course_title": "The Nat. Scientist's Toolkit",
+      "items": [
+        {
+          "assignment": "S1 BB Test (Maths & Physics)",
+          "category": "ONLINE",
+          "grade": 86.0
+        },
+        {
+          "assignment": "S1 Open Book Assess. (Stats)",
+          "category": "Assign",
+          "grade": 94.0
+        },
+        {
+          "assignment": "S1 Exam (Chemistry)",
+          "category": "Exam",
+          "grade": 87.3
+        },
+        {
+          "assignment": "S2 Exam (Maths & Physics)",
+          "category": "Exam",
+          "grade": 77.0
+        },
+        {
+          "assignment": "S2 Report: Programming",
+          "category": "Report",
+          "grade": 58.0
+        },
+        {
+          "assignment": "S2 Report: Programming Code",
+          "category": "ALT",
+          "grade": 61.0
+        }
+      ]
+    },
+    {
+      "code": "EART11300",
+      "code_as_printed": "EART 11300",
+      "course_title": "Prac & Prof Skills Development",
+      "items": [
+        {
+          "assignment": "S1 Practical Exam",
+          "category": "Exam",
+          "grade": 70.0
+        },
+        {
+          "assignment": "S2 Practical Exam",
+          "category": "Exam",
+          "grade": 63.86
+        },
+        {
+          "assignment": "S1 Poster & Presentation",
+          "category": "Present",
+          "grade": 65.0
+        },
+        {
+          "assignment": "S2 Report",
+          "category": "Report",
+          "grade": 67.0
+        },
+        {
+          "assignment": "S2 Prof. Skills Notebook",
+          "category": "Misc",
+          "grade": 70.0
+        }
+      ]
+    }
+  ]
+}

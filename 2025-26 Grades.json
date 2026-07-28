@@ -1,0 +1,302 @@
+{
+  "academic_year": "2025/26",
+  "academic_records": {
+    "term_gpa": 69.833,
+    "cumulative_gpa": 70.75,
+    "overall_year_mark": 69.833,
+    "academic_standing": "Activate - progress to next level"
+  },
+  "classes": [
+    {
+      "code": "EART21202",
+      "code_as_printed": "EART 21202",
+      "units": 10.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 77.0,
+      "grade_points": 770.0
+    },
+    {
+      "code": "EART22201",
+      "code_as_printed": "EART 22201",
+      "units": 10.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 67.0,
+      "grade_points": 670.0
+    },
+    {
+      "code": "EART23202",
+      "code_as_printed": "EART 23202",
+      "units": 10.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 53.0,
+      "grade_points": 530.0
+    },
+    {
+      "code": "EART24001",
+      "code_as_printed": "EART 24001",
+      "units": 10.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 90.0,
+      "grade_points": 900.0
+    },
+    {
+      "code": "EART25102",
+      "code_as_printed": "EART 25102",
+      "units": 10.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 60.0,
+      "grade_points": 600.0
+    },
+    {
+      "code": "EART26001",
+      "code_as_printed": "EART 26001",
+      "units": 10.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 66.0,
+      "grade_points": 660.0
+    },
+    {
+      "code": "EART26201",
+      "code_as_printed": "EART 26201",
+      "units": 10.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 77.0,
+      "grade_points": 770.0
+    },
+    {
+      "code": "EART27201",
+      "code_as_printed": "EART 27201",
+      "units": 10.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 70.0,
+      "grade_points": 700.0
+    },
+    {
+      "code": "EART28101",
+      "code_as_printed": "EART 28101",
+      "units": 10.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 48.0,
+      "grade_points": 480.0
+    },
+    {
+      "code": "EART28202",
+      "code_as_printed": "EART 28202",
+      "units": 10.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 82.0,
+      "grade_points": 820.0
+    },
+    {
+      "code": "EART29102",
+      "code_as_printed": "EART 29102",
+      "units": 10.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 80.0,
+      "grade_points": 800.0
+    },
+    {
+      "code": "EART29200",
+      "code_as_printed": "EART 29200",
+      "units": 10.0,
+      "grading": "Undergraduate Percentage Grade Basis",
+      "grade": 68.0,
+      "grade_points": 680.0
+    }
+  ],
+  "assignments": [
+    {
+      "code": "EART21202",
+      "code_as_printed": "EART 21202",
+      "course_title": "Global Climate Change",
+      "items": [
+        {
+          "assignment": "Exam",
+          "category": "Exam",
+          "grade": 74.7
+        },
+        {
+          "assignment": "Online Test",
+          "category": "ONLINE",
+          "grade": 83.0,
+          "date": "01/30/2026"
+        }
+      ]
+    },
+    {
+      "code": "EART22201",
+      "code_as_printed": "EART 22201",
+      "course_title": "Igneous Minerals and Processes",
+      "items": [
+        {
+          "assignment": "Exam",
+          "category": "Exam",
+          "grade": 70.0
+        },
+        {
+          "assignment": "Test (practical)",
+          "category": "Test",
+          "grade": 61.5
+        }
+      ]
+    },
+    {
+      "code": "EART23202",
+      "code_as_printed": "EART 23202",
+      "course_title": "Interpreting the Stratigraphic",
+      "items": [
+        {
+          "assignment": "Open book assessemnt",
+          "category": "Exam",
+          "grade": 35.0
+        },
+        {
+          "assignment": "Practical",
+          "category": "Prac",
+          "grade": 70.0
+        },
+        {
+          "assignment": "Carbonate coursework",
+          "category": "CrsWork",
+          "grade": 73.0
+        }
+      ]
+    },
+    {
+      "code": "EART24001",
+      "code_as_printed": "EART 24001",
+      "course_title": "Geological Maps",
+      "items": [
+        {
+          "assignment": "COURSEWORK",
+          "category": "CrsWork",
+          "grade": 90.0
+        },
+        {
+          "assignment": "EXAM",
+          "category": "Exam",
+          "grade": 90.0
+        }
+      ]
+    },
+    {
+      "code": "EART25102",
+      "code_as_printed": "EART 25102",
+      "course_title": "Advanced Geological Field Tech",
+      "items": [
+        {
+          "assignment": "Map/Sections",
+          "category": "Assign",
+          "grade": 57.0
+        },
+        {
+          "assignment": "Sedimentary exercise",
+          "category": "Assign",
+          "grade": 65.0
+        },
+        {
+          "assignment": "Igneous exercise",
+          "category": "Assign",
+          "grade": 65.0
+        }
+      ]
+    },
+    {
+      "code": "EART26001",
+      "code_as_printed": "EART 26001",
+      "course_title": "Energy and Resources",
+      "items": [
+        {
+          "assignment": "COURSEWORK",
+          "category": "CrsWork",
+          "grade": 77.0
+        },
+        {
+          "assignment": "TEST",
+          "category": "Test",
+          "grade": 73.3
+        },
+        {
+          "assignment": "EXAM",
+          "category": "Exam",
+          "grade": 56.0
+        }
+      ]
+    },
+    {
+      "code": "EART26201",
+      "code_as_printed": "EART 26201",
+      "course_title": "Principles of Geochemistry",
+      "items": [
+        {
+          "assignment": "exam",
+          "category": "Exam",
+          "grade": 76.0
+        },
+        {
+          "assignment": "Report",
+          "category": "Report",
+          "grade": 80.0
+        }
+      ]
+    },
+    {
+      "code": "EART27201",
+      "code_as_printed": "EART 27201",
+      "course_title": "Sedimentary Rocks and Fossils",
+      "items": [
+        {
+          "assignment": "Weekly Quiz",
+          "category": "ONLINE",
+          "grade": 85.09
+        },
+        {
+          "assignment": "EXAM",
+          "category": "Exam",
+          "grade": 55.5
+        }
+      ]
+    },
+    {
+      "code": "EART28101",
+      "code_as_printed": "EART 28101",
+      "course_title": "Fieldcourse: Intro to Geo Map",
+      "items": [
+        {
+          "assignment": "Field Course",
+          "category": "Misc",
+          "grade": 48.4
+        }
+      ]
+    },
+    {
+      "code": "EART29102",
+      "code_as_printed": "EART 29102",
+      "course_title": "Geospatial Techniques",
+      "items": [
+        {
+          "assignment": "Project",
+          "category": "Project",
+          "grade": 70.0
+        },
+        {
+          "assignment": "Exam",
+          "category": "Exam",
+          "grade": 84.2
+        }
+      ]
+    },
+    {
+      "code": "EART29200",
+      "code_as_printed": "EART 29200",
+      "course_title": "Prof Devlpt and Project Prep",
+      "items": [
+        {
+          "assignment": "Final Report S1+S2",
+          "category": "Report",
+          "grade": 68.0
+        }
+      ]
+    }
+  ]
+}
