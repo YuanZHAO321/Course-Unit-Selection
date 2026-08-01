@@ -63,51 +63,71 @@
 
 OR any other 10-credit EART, UCIL or language unit (subject to timetabling)
 
-## Earth and Planetary Science: Energy and Resources Year 3
+## Third Year
 
-### Core units: 80 credits
+### Pathway core units
 
-#### Full-year units: 30 credits
+You will automatically be enrolled on these units
 
-| Unit code | Title |
-|---|---|
-| EART31100 | Independent project in Earth and Planetary Science |
+#### Full-year units
 
-#### Semester 1: 30 credits
-
-| Unit code | Title |
-|---|---|
-| EART32301 | Tectonics in Earth's oceans and continents |
-| EART33001 | Analytical techniques |
-| EART36101 | Geophysical techniques |
-
-#### Semester 2: 20 credits
-
-| Unit code | Title |
-|---|---|
-| EART38202 | Resource project case studies |
-| EART39302 | Field course: Sicily |
-
-### Optional units: 40 credits. Choose FOUR units from:
+| Unit code | Title | Credits |
+|---|---|---|
+| EART31100 | Extended project in Earth and planetary science | 30 |
 
 #### Semester 1
 
-| Unit code | Title |
-|---|---|
-| EART33201 | Quantitative sedimentology |
-| EART34001 | Dinosaur palaeobiology |
-| EART34201 | Chemical evolution of the Earth's interior |
-| EART35101 | Hydrogeology and geomechanics |
+| Unit code | Title | Credits |
+|---|---|---|
+| EART36101 | Geophysical techniques | 10 |
+| EART35101 | Hydrogeology and geomechanics | 10 |
 
 #### Semester 2
 
-| Unit code | Title |
-|---|---|
-| EART31302 | Sedimentary basins |
-| EART34102 | Geoenergy |
-| EART34302 | Volcanology |
-| EART37002 | Diagenesis of sedimentary systems |
-| EART36002 | Climate and energy |
-| MATS32802 | Resources for the modern world |
+| Unit code | Title | Credits |
+|---|---|---|
+| EART38202 | Resource project life cycles | 10 |
+| EART34102 | Geoenergy | 10 |
+| EART39302 | Field course: Sicily | 10 |
 
-OR one 10-credit EART unit (subject to timetabling), or up to 20 credits of a single UCIL or language unit (subject to timetabling)
+### Pathway optional units
+
+Select FOUR of the following optional units, including at least TWO units in Semester1
+
+#### Semester 1
+
+| Unit code | Title | Credits |
+|---|---|---|
+| EART32301 | Tectonics in Earth’s oceans and continents | 10 |
+| EART33001 | Analytical techniques in Earth and environmental sciences | 10 |
+| EART34201 | Chemical evolution of the Earth’s interior | 10 |
+
+#### Full-year units
+
+| Unit code | Title | Credits |
+|---|---|---|
+| EART31001 | Communicating science | 10 |
+
+#### Semester 2
+
+| Unit code | Title | Credits |
+|---|---|---|
+| EART31302 | Sedimentary basins and the source-to-sink system | 10 |
+| EART34302 | Volcanology | 10 |
+| EART36002 | Climate and energy | 10 |
+| MATS32802 | Resources for the modern world | 10 |
+
+OR you may select any other 10-credit EART unit (subject to timetabling), or up to 20 credits of a single UCIL or language unit (subject to timetabling) 10-20 credits
+
+### Suggested combinations of options for Energy & Resources:
+
+- (1) Petrology and geochemistry focus: EART34201, EART33001, plus EART34302 Volcanology
+- (2) Subsurface reservoirs focus: EART33001, and two from EART31302, EART37001, EART36002
+
+### PLEASE NOTE:
+
+When selecting your course units you must ensure you enrol on:
+
+- 120 credits in total (including any core units)
+- A minimum of 50 credits per semester
+- A maximum of 70 credits per semester
